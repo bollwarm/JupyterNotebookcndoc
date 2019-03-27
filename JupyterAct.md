@@ -85,7 +85,8 @@ df = pd.DataFrame(l, columns=['path', 'name', 'family', 'weight'])
 df
 ```
 你应该看到下面这样的表格：
- ![](_v_images/1553680567_22510.png)
+![](_v_images/1553686725_8473.png)
+
 然后找到支持中文的字体名，然后设置matplotlib的默认字体：
 ```
 import matplotlib as mpl
@@ -140,16 +141,16 @@ pre.CodeMirror-line {
 插件管理器`jupyter notebook extensions`
 
 然后你就可以在jupyter主页里找到下面的标签页管理插件了：
- ![](_v_images/1553680820_15961.png)
+![](_v_images/1553686750_14006.png)
 ## jupyter Dashboard
 如果你的jupyter服务是搭建在主机上，并且平时和业务人员想用notebook地址的方式交付，jupyter dashboard插件是一个不错的选择。
 安装方法和github地址在这里。
 原本效果如下：
- ![](_v_images/1553680848_7016.png)
+![](_v_images/1553686763_21444.png)
 点击如下红色设置，并点击黄色按钮后
-![](_v_images/1553680863_18428.png)
+![](_v_images/1553686783_12701.png)
 就可得到如下的报告形式（删去了业务人员不想查看的代码），然后就可以粘贴连接交付报告了：
- ![](_v_images/1553680871_9781.png)
+![](_v_images/1553686796_19703.png)
 切换成dashboard模式可以拖拽相关方格来设置位置。
 ## 安装R kernel
 R kernel安装方式有两个：

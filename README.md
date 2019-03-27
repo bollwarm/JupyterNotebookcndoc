@@ -1,25 +1,25 @@
 # README
 
-[如何优雅地使用 Jupyter]('如何优雅地使用 Jupyter.md')
+[如何优雅地使用 Jupyter](JupyterGraceUse.md)
 
-[Jupyter Notebook 输出矢量图]('Jupyter Notebook 输出矢量图.md')
+[Jupyter Notebook 输出矢量图](JupyterNotebookpic.md)
 
-[jupyter RISE 制作 html ppt]('jupyter RISE 制作 html ppt.md')
+[jupyter RISE 制作 html ppt](jupyterRISEppt.md)
 
-[markdown和图表]('markdown和图表.md')
+[markdown和图表](markdownclear.md)
 
-[Jupyter 另类套装，非常实用]('Jupyter 另类套装，非常实用.md')
+[Jupyter 另类套装，非常实用](JupyterSET.md)
 
-[基本技巧]("基本技巧.md")
+[基本技巧]("BaseUse.md")
 
-[magic命令]("magic命令.md")
+[magic命令]("magicCommand.md")
 
-[几个常用功能]("几个常用功能.md")
+[几个常用功能](CommonFun.md)
 
-[Jupyter技巧]("Jupyter技巧.md")
+[Jupyter技巧](JupyterSkills.md)
 
-[Jupyter Notebook 快捷键使用指南]('Jupyter Notebook 快捷键使用指南.md')
+[Jupyter Notebook 快捷键使用指南](JupyterNotebookSeys.md)
 
-[Sublime Text 3 中使用 Jupyter Notebook ]('Sublime Text 3 中使用 Jupyter Notebook .md')
+[Sublime Text 3 中使用 Jupyter Notebook ](SublimeJupyter.md)
 
-[装扮你的Jupyter]("装扮你的Jupyter.md")
+[装扮你的Jupyter](JupyterAct.md)
